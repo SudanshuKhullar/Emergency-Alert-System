@@ -41,6 +41,14 @@ It leverages **NLP**, **speech recognition**, and **simulated GPS** to identify 
 
 
 ## Installation
+Prerequisites
+
+Python 3.8 or higher
+
+pip package manager
+
+Step 1: Install Dependencies
+pip install -r requirements.txt
 
 1. **Clone the repository:**
 
