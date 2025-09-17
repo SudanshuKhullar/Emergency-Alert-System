@@ -1,0 +1,28 @@
+Message,Department,Location,Timestamp,Priority
+Fire!!,🔥 Fire Department (101),"28.6064, 77.1963",2025-07-29 13:47:23,Low
+I was in a car crash and I’m hurt!,🏥 Ambulance (102),"28.5926, 77.1993",2025-07-29 13:48:09,Low
+Help! My bike collided with a truck!,🆘 General Emergency (112),"28.5958, 77.2089",2025-07-29 13:48:25,Low
+"Help, I’m trapped after an accident in my car!",🆘 General Emergency (112),"28.5951, 77.1907",2025-07-29 13:49:03,Medium
+"Help, I’m trapped after an accident in my car!",🚑 Accident Control (102),"28.5951, 77.1907",2025-07-29 13:49:03,Medium
+Earthquake! I’m stuck under rubble!,🌍 Disaster Response - Earthquake Unit,"28.5988, 77.1985",2025-07-29 13:49:32,High
+Earthquake! I’m stuck under rubble!,🆘 Rescue,"28.5988, 77.1985",2025-07-29 13:49:32,High
+fire,🔥 Fire Department (101),"28.5976, 77.2095",2025-07-29 13:50:10,Low
+"fire near me
+",🔥 Fire Department (101),"28.5983, 77.2069",2025-07-29 13:51:10,Low
+I'm struck in a remote place,🆘 Rescue,"28.5903, 77.2038",2025-07-29 13:53:42,Low
+Fire,🔥 Fire Department (101),"28.5966, 77.1929",2025-07-29 14:21:26,Low
+help,🆘 General Emergency (112),"28.6097, 77.2096",2025-07-29 14:21:39,Low
+help,🆘 General Emergency (112),"28.5985, 77.2052",2025-07-29 15:41:26,Low
+help,🌊 Coastal Emergency Services,"28.5985, 77.2052",2025-07-29 15:41:26,Low
+"Accident
+",🚑 Accident Control (102),"28.6076, 77.2068",2025-08-19 22:07:52,Low
+fire fire I have met an accident,🔥 Fire Department (101),"28.5960, 77.1968",2025-08-19 22:08:21,Medium
+fire fire I have met an accident,🚑 Accident Control (102),"28.5960, 77.1968",2025-08-19 22:08:21,Medium
+Emergency! I’ve met with an accident. Please send help immediately,⚠️ Emergency,"28.6084, 77.2037",2025-08-19 22:10:44,High
+Emergency! I’ve met with an accident. Please send help immediately,🆘 General Emergency (112),"28.6084, 77.2037",2025-08-19 22:10:44,High
+Emergency! I’ve met with an accident. Please send help immediately,🚑 Accident Control (102),"28.6084, 77.2037",2025-08-19 22:10:44,High
+fire fire I met an accident,🔥 Fire Department (101),"28.6066, 77.2060",2025-08-19 22:11:18,Medium
+fire fire I met an accident,🚑 Accident Control (102),"28.6066, 77.2060",2025-08-19 22:11:18,Medium
+Fire emergency. Please send help immediately,🔥 Fire Department (101),"28.5996, 77.2080",2025-08-21 11:23:14,High
+Fire emergency. Please send help immediately,⚠️ Emergency,"28.5996, 77.2080",2025-08-21 11:23:14,High
+Fire emergency. Please send help immediately,🆘 General Emergency (112),"28.5996, 77.2080",2025-08-21 11:23:14,High
