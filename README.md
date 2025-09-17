@@ -38,37 +38,7 @@ It leverages **NLP**, **speech recognition**, and **simulated GPS** to identify 
 - **Randomized Simulation:** random
 
 ---
-💻 Installation
 
-Clone the repository:
-
-git clone https://github.com/your-username/emergency-alert-system.git
-cd emergency-alert-system
-
-
-Create and activate a virtual environment (recommended):
-
-python -m venv venv
-# Linux / Mac
-source venv/bin/activate
-# Windows
-venv\Scripts\activate
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-🚀 Running the App
-
-Start the Streamlit server:
-
-streamlit run app.py
-
-
-Open your browser and go to:
-
-http://localhost:8501
 
 ## Installation
 
